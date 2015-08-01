@@ -1,0 +1,1 @@
+- [Static Site Generation with React and Webpack](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/) by [Brent Jackson](https://twitter.com/jxnblk)<br /> Great, quick set up for a React static site.
