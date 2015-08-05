@@ -1,0 +1,1 @@
+- [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) by [Kyle Simpson](https://twitter.com/getify)<br />Covers promises and generators
